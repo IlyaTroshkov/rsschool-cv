@@ -2,6 +2,7 @@
 ### **Contacts:**
 - **Mobile Phone:** +7 (911) 036-90-80
 - **Email:** ilotroshkov@mail.ru
+- **Discord:** Big Duck#7883
 
 ### **About me:**
 For more than three years I have been working in a company, I am engaged in the layout and design of corporate publications (magazines, catalogs, business cards, banners, etc.), as well as administer sites that run on **CMS Joomla** and **Wordpress**. I came to the company with no skills at all and learned everything from scratch. I got my basic **HTML** and **CSS** skills, I liked it and now I want to get the necessary skills to become a Frontend developer, so I signed up for courses at **RSS SCHOOL!**
